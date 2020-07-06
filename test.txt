@@ -1,5 +1,0 @@
-test
-aaaa
-new content
-change by master
-change by fox_hit
